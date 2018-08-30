@@ -1,5 +1,6 @@
 package burp;
 
+# COFFEE_TOKEN=11111-1111-1111-1111-1111
 import U2C.U2CTab;
 
 public class BurpExtender implements IBurpExtender,IMessageEditorTabFactory
